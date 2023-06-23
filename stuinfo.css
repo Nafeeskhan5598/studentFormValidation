@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(14, 216, 185);   
+   }
+       #student-form{
+   background: rgb(16, 122, 164);   
+   width: 294px;
+   height: auto;
+   text-align: center;
+   padding: 0px;
+   margin-left: 296px;
+   border: 2px dotted darkgray;
+   border-radius: 35px;
+   }
+   .person{
+       width:  165px;
+   }
+   #open{
+       background-color: rgb(0, 0, 0);
+       border-radius: 10px;
+       color:aqua;
+   
+   }
+   
+   
